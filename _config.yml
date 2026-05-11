@@ -1,0 +1,5 @@
+title: Diary.exe Legal
+description: Diary.exe 이용약관 및 개인정보 처리방침
+baseurl: /diary-legal
+permalink: /:basename/
+theme: jekyll-theme-cayman
